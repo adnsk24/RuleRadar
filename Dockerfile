@@ -23,9 +23,10 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 # Pre-create cache and data directories with open permissions
 RUN mkdir -p /app/cache /app/data && chmod -R 777 /app/cache /app/data
 
-# Install Python dependencies
+# Install Python dependencies (use lightweight CPU-only PyTorch to prevent free-tier OOM and reduce image size)
 COPY requirements.txt .
 RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu && \
     pip install --no-cache-dir -r requirements.txt
 
 # Pre-download SpaCy model and Hugging Face embedding model into fixed cache during build
