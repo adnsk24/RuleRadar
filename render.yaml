@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: ruleradar-ai
+    runtime: docker
+    repo: https://github.com/your-username/ruleradar-ai # update with your repository URL
+    plan: standard
+    region: oregon
+    envVars:
+      - key: PORT
+        value: 8000
+      - key: DATA_DIR
+        value: /app/data
+      - key: OFFLINE_MODE
+        value: "true"
+    disk:
+      name: ruleradar-storage
+      mountPath: /app/data
+      sizeGB: 10

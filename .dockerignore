@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache
+tests
+.env
+.git
+.gitignore
+.vscode
+.idea
+README.md
+create_demo_documents.py

@@ -1,0 +1,23 @@
+# SYNTHETIC EMPLOYMENT AGREEMENT
+# [SYNTHETIC DOCUMENT CREATED FOR RULERADAR AI EVALUATION & TESTING]
+
+SECTION 1. POSITION AND COMMENCEMENT
+This Executive Employment Agreement ("Agreement") is dated March 1, 2026, between Horizon Technologies Inc. ("Company") and Jane Smith ("Employee"). Employee shall serve as Senior Software Engineer commencing on April 1, 2026.
+
+SECTION 2. COMPENSATION AND BENEFITS
+Company shall pay Employee an annual base salary of $135,000.00, payable in semi-monthly installments in accordance with Company standard payroll practices. Employee shall be eligible for an annual performance bonus of up to 15% of base salary.
+
+SECTION 3. CONFIDENTIALITY AND NON-DISCLOSURE
+Employee recognizes that during employment Employee will have access to proprietary information, trade secrets, and confidential data. Employee agrees to maintain strict non-disclosure of confidential information during and perpetually after termination of employment.
+
+SECTION 4. INTELLECTUAL PROPERTY ASSIGNMENT
+All inventions, software code, patents, trademarks, and copyrightable works created by Employee during the course of employment shall constitute "work made for hire" and shall be the exclusive property of Company.
+
+SECTION 5. RESTRICTIVE COVENANTS AND NON-COMPETE
+During the term of employment and for a period of 2 years following termination, Employee shall not engage in or work for any competing business offering cloud optimization services within North America.
+
+SECTION 6. TERMINATION
+Company may terminate this agreement immediately without cause upon written notice. Employee may terminate this agreement by providing at least 30 days' written notice to Company.
+
+SECTION 7. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of the State of New York.
